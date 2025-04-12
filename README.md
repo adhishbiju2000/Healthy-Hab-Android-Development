@@ -1,4 +1,4 @@
-# Healthy Hab 🧘‍♀️💧📱  
+# Healthy Hab  
 *Empowering healthier habits through a simple and engaging Android app*
 
 ## 📱 Project Overview
