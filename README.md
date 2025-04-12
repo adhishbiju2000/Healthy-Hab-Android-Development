@@ -7,8 +7,8 @@
 ## 👥 Team Members
 | Name                        | Email                               | Roll No  |
 |-----------------------------|--------------------------------------|---------|
-| Ankit Kumar                 | ankitk22it@student.mes.ac.in         | B420    | 
 | Adhish Biju                 | adhishb22it@student.mes.ac.in        | B402    | 
+| Ankit Kumar                 | ankitk22it@student.mes.ac.in         | B420    | 
 | Tej Ambre                   | atej22it@student.mes.ac.in           | B404    | 
 | Arman Ahmed Gufran Ahmed Shah | armans22it@student.mes.ac.in       | B406    |
 
@@ -51,21 +51,29 @@
 
 - **App Home Screen:**  
   `![Home Screen](screenshots/home.png)`
+![image](https://github.com/user-attachments/assets/5ec9e272-8e51-4158-8371-7fa067e91534)
 
 - **Login Page:**  
   `![Login](screenshots/login.png)`
+  ![image](https://github.com/user-attachments/assets/cfd9941b-b2cd-4bc3-82ce-01a19e862be3)
+
+
 
 - **Signup Page:**  
   `![Signup](screenshots/signup.png)`
+![image](https://github.com/user-attachments/assets/822a9dc3-53f4-4ffa-85ff-6331e8f93b08)
 
 - **Main Activity Page:**  
   `![Activity Page](screenshots/activity.png)`
+![image](https://github.com/user-attachments/assets/7bdef1ba-da95-4bef-a78c-93d9634b89c5)
 
 - **Healthy Hab Screen (Instructions):**  
   `![Healthy Hab Instructions](screenshots/hab_screen.png)`
+![image](https://github.com/user-attachments/assets/d020cec1-403f-445c-8371-e12c432dad76)
 
 - **Profile Page (Update/Delete/Logout):**  
   `![Profile](screenshots/profile.png)`
+![image](https://github.com/user-attachments/assets/63798936-50e0-4d12-a711-e678148b8d61)
 
 ## 📈 Results & Discussion
 - Users demonstrated improved health routines like hydration and sleep.
